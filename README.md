@@ -44,7 +44,7 @@ This script supports both Gmail and Hotmail (Outlook). Depending on your email p
 Execute the script in your terminal:
 
 ```bash
-python your_script_name.py
+python crypto_price_update.py
 ```
 
 Follow the prompt to enter the cryptocurrency symbol you want to track (e.g., RENDER, BTC).
