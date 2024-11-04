@@ -41,7 +41,7 @@ This script supports both Gmail and Hotmail (Outlook). Depending on your email p
 
 ### Run the Script: 
 
-Execute the script in your terminal:
+Make sure you are in the directory where your script is located. Then, execute the script in your terminal:
 
 ```bash
 python crypto_price_update.py
