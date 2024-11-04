@@ -30,18 +30,18 @@ API Key: Obtain your CoinMarketCap API key and replace 'your_api_key' in the scr
 This script supports both Gmail and Hotmail (Outlook). Depending on your email provider, follow the respective setup instructions:
 
 ### For Gmail:
-Recommended: Use App Passwords for enhanced security.
-Go to your Google account security settings.
-Enable "Two-Step Verification."
-Generate an app password and use it in place of your regular password in the script.
+- Enable "Two-Step Verification" in your Google account security settings.
+- Generate an app password.
+- Use the app password in place of your regular password in the script.
 
 ### For Hotmail (Outlook):
-Enable "Two-step verification" for your Microsoft account.
-Generate an app password:
-Go to your Microsoft account security settings.
-Enable "Two-step verification."
-Generate an app password and use it in place of your regular password in the script.
-Run the Script: Execute the script in your terminal:
+- Go to your Microsoft account security settings.
+- Enable "Two-step verification."
+- Generate an app password and use it in place of your regular password in the script.
+
+### Run the Script: 
+
+Execute the script in your terminal:
 
 ```bash
 python your_script_name.py
