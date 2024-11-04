@@ -27,17 +27,11 @@ API Key: Obtain your CoinMarketCap API key and replace 'your_api_key' in the scr
 
 ### Email Configuration:
 
-This script supports both Gmail and Hotmail (Outlook). Depending on your email provider, follow the respective setup instructions:
+By default, the yagmail library is configured to work with Gmail's SMTP server. Follow the respective setup instructions below:
 
-### For Gmail:
 - Enable "Two-Step Verification" in your Google account security settings.
 - Generate an app password.
 - Use the app password in place of your regular password in the script.
-
-### For Hotmail (Outlook):
-- Go to your Microsoft account security settings.
-- Enable "Two-step verification."
-- Generate an app password and use it in place of your regular password in the script.
 
 ### Run the Script: 
 
