@@ -1,1 +1,1 @@
-# CoinMarketCap_Scraper
+# CoinMarketCap Web Scraper
