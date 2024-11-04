@@ -25,7 +25,7 @@ pip install requests pandas yagmail openpyxl
 ## Setup
 API Key: Obtain your CoinMarketCap API key and replace 'your_api_key' in the script with your actual key.
 
-## Email Configuration:
+### Email Configuration:
 
 This script supports both Gmail and Hotmail (Outlook). Depending on your email provider, follow the respective setup instructions:
 
