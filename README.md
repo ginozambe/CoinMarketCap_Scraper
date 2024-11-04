@@ -50,4 +50,5 @@ python crypto_price_update.py
 Follow the prompt to enter the cryptocurrency symbol you want to track (e.g., RENDER, BTC).
 
 ## Usage
-The script runs indefinitely, fetching and saving data every minute. You can stop it using Ctrl+C.
+The script runs indefinitely, fetching and saving data every minute. You can stop it by pressing **Ctrl+C** or by closing the command line interface.
+
