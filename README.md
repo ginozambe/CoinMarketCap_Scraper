@@ -1,6 +1,6 @@
 # CoinMarketCap Web Scraper
 
-This script fetches cryptocurrency price and market cap data from the CoinMarketCap API at minute intervals and sends the data via email. It allows you to track the price of any cryptocurrency symbol of your choice.
+This Python script fetches the price and market cap of a selected cryptocurrency using the CoinMarketCap API. Data is collected at one-minute intervals and sent to your email, allowing you to track your chosen cryptocurrency effortlessly.
 
 ## Features
 - Fetches cryptocurrency price and market cap data.
